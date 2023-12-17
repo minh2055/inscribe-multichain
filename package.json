@@ -1,0 +1,14 @@
+{
+  "name": "eths",
+  "version": "0.0.1",
+  "dependencies": {
+    "@cosmjs/proto-signing": "^0.32.1",
+    "@cosmjs/stargate": "^0.32.1",
+    "@flipsidecrypto/sdk": "^2.0.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.4",
+    "node-cache": "^5.1.2",
+    "tronweb": "^5.3.1",
+    "web3": "^4.0.2"
+  }
+}
