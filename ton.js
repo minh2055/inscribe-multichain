@@ -10,7 +10,7 @@ const tonweb = new TonWeb(new TonWeb.HttpProvider(RPC, {
     }
 }));
 
-const SEED_PHASE = 'your seed phase';
+const SEED_PHASE = 'sponsor there hurt suspect network glove science brand sentence aim perfect humble crouch piano aerobic aunt horn future allow kind practice modify ramp label';
 
 
 function sleep(ms) {
